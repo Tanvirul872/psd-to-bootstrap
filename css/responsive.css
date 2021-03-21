@@ -1,0 +1,34 @@
+﻿@media screen and (max-width:768px) {
+	
+			.sameservice {
+			margin-top: 35px;
+		}
+		
+		
+	.element-item img {
+		
+		height: 144px; 
+	     } 
+		 
+}
+
+@media screen and (max-width:480px) {
+	
+	.banner h2 {
+   
+    font-size: 30px;
+	
+        }
+		
+		.banner p {
+    font-size: 15px;
+		}
+	
+	.mubutton {
+   
+    font-size: 12px;
+    padding: 6px 18px;   
+}
+} 
+
+
